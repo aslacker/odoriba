@@ -5,7 +5,7 @@ chardet==2.3.0
 cryptography==1.0
 Django==1.8.4
 dpkt==1.8.6.2
-ecdsa==0.13
+ecdsa==0.13.3
 enum34==1.0.4
 Flask==0.10.1
 HTTPReplay==0.1.5
